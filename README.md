@@ -9,7 +9,11 @@ Me chamo Marcelo Ézio Rodrigues.
 
 ### Meus Contatos:
 
-📬rodrigues.marcelo@escola.pr.gov.br
+![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+rodrigues.marcelo@escola.pr.gov.br
+
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 `@marceloezio`
 
